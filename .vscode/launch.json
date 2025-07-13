@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SweetBiteOrderSystemApplication<ordersystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sweetbite.ordersystem.SweetBiteOrderSystemApplication",
+            "projectName": "ordersystem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
